@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31829.152
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Task16_WriteProductsToJson", "Task16\Task16_WriteProductsToJson.csproj", "{9E15CF7C-9A45-45FD-90F8-29BAB0D56BAD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Task16_ReadProductsFromJson", "Task16_2\Task16_ReadProductsFromJson.csproj", "{07E5F1A4-DF4C-44BE-B1EF-87538F9E935C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9E15CF7C-9A45-45FD-90F8-29BAB0D56BAD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9E15CF7C-9A45-45FD-90F8-29BAB0D56BAD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9E15CF7C-9A45-45FD-90F8-29BAB0D56BAD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9E15CF7C-9A45-45FD-90F8-29BAB0D56BAD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{07E5F1A4-DF4C-44BE-B1EF-87538F9E935C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{07E5F1A4-DF4C-44BE-B1EF-87538F9E935C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{07E5F1A4-DF4C-44BE-B1EF-87538F9E935C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{07E5F1A4-DF4C-44BE-B1EF-87538F9E935C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F26A299C-823E-48E5-AF63-02C7479016AE}
+	EndGlobalSection
+EndGlobal
